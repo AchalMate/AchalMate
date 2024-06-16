@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Achal Mate
 
-<!--
-**AchalMate/AchalMate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ I am like a pioneer exploring the frontiers of GenAi and Data Science, integrating insights to architect the future of AI engineering
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Analysis, Machine Learning Technology
+- 🌱 I’m currently learning Gen-AI.
+- 👯 "I’m looking to collaborate on innovative AI-ML projects that push the boundaries of technology and drive impactful solutions in fields like natural language processing, computer vision, predictive analytics, and beyond."
+
+- 💬 Ask me about Data Analysis.Machine Learning, Deep Learning, Natural Language Processing and Gen-AI
+- 📫 How to reach me: achal.r.mate@gmail.com
+
+
