@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Achal Mate
 
 
- <centre><b>I am like a pioneer exploring the frontiers of GenAi and Data Science, integrating insights to architect the future of AI engineering</b></centre>
+ <h3 align="center">I am like a pioneer exploring the frontiers of GenAi and Data Science, integrating insights to architect the future of AI engineering</h3>
 
-
+<br>
 - 🔭 I’m currently working on Data Analysis, Machine Learning Technology
 - 🌱 I’m currently learning Gen-AI.
 - 👯 "I’m looking to collaborate on innovative AI-ML projects that push the boundaries of technology and drive impactful solutions in fields like natural language processing, computer vision, predictive analytics, and beyond."
