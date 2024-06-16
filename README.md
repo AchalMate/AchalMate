@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: achal.r.mate@gmail.com
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AchalMate)](https://github.com/AchalMate/github-profile-trophy)
+![Profile views](https://gpvc.arturio.dev/[AchalMate])
