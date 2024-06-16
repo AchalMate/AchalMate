@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Data Analysis.Machine Learning, Deep Learning, Natural Language Processing and Gen-AI
 - 📫 How to reach me: achal.r.mate@gmail.com
-## Hey 👋, This is Achal Mate
 
-[![Linkedin Badge](https://img.shields.io/badge/-achalmate-232348188/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achalmate-232348188/)](https://www.linkedin.com/in/achalmate-232348188/) [![Github Badge](https://img.shields.io/badge/-AchalMate-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AchalMate/)](https://www.github.com/AchalMate/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AchalMate alt=AchalMate /> </p>
 
