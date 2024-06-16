@@ -8,14 +8,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data Analysis, Machine Learning Technology
 - 🌱 I’m currently learning Gen-AI.
 - 👯 "I’m looking to collaborate on innovative AI-ML projects that push the boundaries of technology and drive impactful solutions in fields like natural language processing, computer vision, predictive analytics, and beyond."
-- - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/achal-mate-232348188/details/projects/](https://www.linkedin.com/in/achal-mate-232348188/details/projects/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/achal-mate-232348188/details/projects/](https://www.linkedin.com/in/achal-mate-232348188/details/projects/)
 - 💬 Ask me about Data Analysis.Machine Learning, Deep Learning, Natural Language Processing and Gen-AI
 - 📫 How to reach me: achal.r.mate@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/achal-mate-232348188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/achal-mate-232348188/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/achalrajeshmate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/achalrajeshmate" height="30" width="40" /></a>
+<a href="/https://www.linkedin.com/in/achal-mate-232348188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/achal-mate-232348188/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/achalrajeshmate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/achalrajeshmate" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/achalmate01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="achalmate01" height="30" width="40" /></a>
 </p>
 
