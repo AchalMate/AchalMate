@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: achal.r.mate@gmail.com
 
 
-![Profile views](https://gpvc.arturio.dev/[AchalMate])
